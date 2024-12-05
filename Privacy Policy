@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TextNoter Privacy Policy</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+            background-color: #f4f4f4;
+        }
+        h1, h2 {
+            color: #2575fc;
+        }
+        section {
+            background-color: white;
+            padding: 20px;
+            margin-bottom: 15px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+    <h1>TextNoter Privacy Policy</h1>
+    
+    <section>
+        <h2>Data Collection</h2>
+        <p>TextNoter collects only the text you explicitly choose to save through the extension. We collect:</p>
+        <ul>
+            <li>Selected text notes</li>
+            <li>Timestamp of note creation</li>
+            <li>Source URL (optional)</li>
+        </ul>
+    </section>
+    
+    <section>
+        <h2>Data Storage</h2>
+        <p>All notes are stored locally in your Chrome browser's storage. No data is transmitted to external servers.</p>
+    </section>
+    
+    <section>
+        <h2>User Control</h2>
+        <p>You have complete control over your data:</p>
+        <ul>
+            <li>Delete individual notes</li>
+            <li>Clear all notes at any time</li>
+            <li>Uninstall extension to remove all data</li>
+        </ul>
+    </section>
+    
+    <section>
+        <h2>Privacy Commitment</h2>
+        <p>We do not:</p>
+        <ul>
+            <li>Sell your data</li>
+            <li>Share data with third parties</li>
+            <li>Access your notes</li>
+        </ul>
+    </section>
+    
+    <footer>
+        <p>Last Updated: December 2024</p>
+    </footer>
+</body>
+</html>
